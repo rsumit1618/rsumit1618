@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Sumit Rai</h1>
+<h1 align="center">👋 Hi, I'm Sumit Rai</h1>
 <h3 align="center">Senior Flutter Developer | Mobile Solutions Architect | Full-Stack Engineer</h3>
 
 <div align="center">
@@ -13,9 +13,19 @@
 
 ---
 
-## 🎯 Professional Summary
+## 🧑‍💻 About Me
 
 > *"Winners don't wait for Opportunities, they know how to create them"* — Sandeep Wadhera
+
+I'm a **Senior Flutter Developer & Full-Stack Engineer** with **7+ years** of experience building scalable, high-performance mobile applications for **FinTech** and **Crypto** enterprises. I specialize in **Clean Architecture**, **Riverpod/BLoC**, and **real-time systems**, with strong expertise in **Node.js backend development**, **AWS cloud services**, **Firebase**, **Redis**, and **PostgreSQL**.
+
+🚀 I've led teams, delivered apps serving **50K+** users, maintained **99% crash-free** performance across **1M+** downloads, and reduced development time by **60%** through CI/CD automation and AI-assisted workflows.
+
+💡 **Core Strengths:** Hard Working | Adaptive | Leadership | Opportunity Seeker | Open to New Tech
+
+---
+
+## 🎯 Professional Summary
 
 🏆 **Senior Flutter Developer & Full-Stack Engineer** with **7+ years** of experience architecting cross-platform mobile applications for **FinTech** and **Crypto** enterprises. Strong expertise in **Node.js backend development**, **AWS cloud services**, **Firebase**, **Redis**, and **PostgreSQL**. Proven track record of delivering scalable, high-performance solutions with **99% crash-free** stability across **1M+ downloads**.
 
@@ -218,8 +228,8 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rsumit1618&show_icons=true&theme=radical&count_private=true&hide=contribs" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsumit1618&layout=compact&theme=radical" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rsumit1618&show_icons=true&theme=radical&count_private=true&hide=contribs" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsumit1618&layout=compact&theme=radical" alt="Top Languages" width="48%" />
 </div>
 
 ---
