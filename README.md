@@ -225,15 +225,6 @@ I'm a **Senior Flutter Developer & Full-Stack Engineer** with **7+ years** of ex
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rsumit1618&show_icons=true&theme=radical&count_private=true&hide=contribs" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsumit1618&layout=compact&theme=radical" alt="Top Languages" width="48%" />
-</div>
-
----
-
 ## 💼 Experience Timeline
 
 | Period | Role | Company |
